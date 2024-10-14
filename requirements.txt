@@ -1,0 +1,4 @@
+loguru
+selenium
+selenium-stealth
+requests
